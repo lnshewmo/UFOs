@@ -1,8 +1,19 @@
 # UFO Sightings with JavaScript
 
-## Overview
+## Purpose 
 
-Using JavaScript and HTML with Bootstrap, a dynamic webpage was designed to view data on UFO sightings recorded during January of 2010.  The data is presented in a table and can be filtered based on 5 input fields.
+Using JavaScript and HTML with Bootstrap, an interactive webpage was developed to allow users to view data on UFO sightings recorded during January of 2010.  The data is presented in a table and can be filtered based on 5 input fields.
+
+### Overview
+
+A snip of the rendered page:
+
+![overview.png](/static/images/overview.png)
+
+
+
+
+
 
 ## Results
 
