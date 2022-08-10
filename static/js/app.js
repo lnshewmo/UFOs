@@ -1,4 +1,4 @@
-// module 10 challenge
+// module 11 challenge - UFOs and JavaScript
 // by Laura Miller
 
 // from data.js
