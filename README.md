@@ -21,7 +21,7 @@ To filter the table, the user must input something in one of the input fields an
 **Drawback of the Redesign:**
 
 -  If the user enters too many criteria in the filtering fields all at once, the table is likely not to return any data.
--  The originial design of the webpage allowed users to filter by date only and contained a button to initalize the filter.  The new design removed the button.  
+-  The original design of the webpage allowed users to filter by date only and contained a button to initalize the filter.  The new design removed the button.  
 
 **Further Development:**
 
