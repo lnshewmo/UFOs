@@ -2,7 +2,7 @@
 
 ## Purpose 
 
-Using JavaScript and HTML with Bootstrap, an interactive webpage was developed to allow users to view data on UFO sightings recorded during January of 2010.  The data is presented in a table and can be filtered based on 5 input fields.
+Using JavaScript and HTML with Bootstrap and D3, an interactive webpage was developed to allow users to view data on UFO sightings recorded during January of 2010.  The data is presented in a table and can be filtered based on 5 input fields.
 
 ### Overview
 
@@ -29,4 +29,8 @@ To filter the table, the user must input something in one of the input fields an
 2. The alignment of the search fields with its corresponding label could be fixed with the label above the field or a fixed distance from the field to improve the aesthetic.  Also the placeholder text could be greyed out to make that distinction more obvious.
 3. This small dataset contains some typographical errors and lacks consistency in units, punctuation and capitialization.  Some cleaning may be in order.
 
+### Resources
 
+`app.js` - defines the functions which filter and build the table from the `data.js` array
+
+`index.html` - renders and formats the webpage, connecting all the elements: bootstrap, css, d3 library, dataset and javascript functions
